@@ -1,5 +1,5 @@
 # Mock Streamlit app + DB
-This is purely for showcasing experience with streamlit. If you really wanted to, you could spin up a local postgresql db and a .env file with relevant cread to run it! Or you can check out the screenshows below.
+This is purely for showcasing experience with streamlit. If you really wanted to, you could spin up a local postgresql db and a .env file with relevant creds to run it! Or you can check out the screenshows below.
 
 If you're feeling spicy, set up the .env and pgql db. Next, run `streamlit run mouse_atlas_app.py` in the project root. This will automatically launch the app and open in your default browser
 
